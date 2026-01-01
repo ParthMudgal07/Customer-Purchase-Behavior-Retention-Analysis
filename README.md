@@ -53,7 +53,8 @@ The dashboard is designed to prioritize clarity and decision-oriented insights r
 ## Files in This Repository
 
 - Due to file size constraints, two Excel files are uploaded. One contains dashboard and summary analysis only.
-- `Analysis Screenshots` — Images of the cleaned data and intermediate pivot tables required for analysis 
+- `Analysis Screenshots` — Images of the cleaned data and intermediate pivot tables required for analysis
+- `Raw_Data` — Raw dataset used for analysis
 - `README.md` — Project documentation  
 
 
@@ -62,6 +63,6 @@ The dashboard is designed to prioritize clarity and decision-oriented insights r
 - Microsoft Excel (data cleaning, pivot-based analysis, dashboard design)
 
 
-## Notes
+
 
 This project focuses on analytical reasoning and business interpretation. Visual elements are intentionally minimal to emphasize insight clarity and reproducibility.

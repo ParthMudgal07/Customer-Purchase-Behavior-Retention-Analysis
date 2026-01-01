@@ -52,7 +52,7 @@ The dashboard is designed to prioritize clarity and decision-oriented insights r
 
 ## Files in This Repository
 
-- `Raw_Data.xlsx` , 'Cleaned_Data' — Excel files containing Raw Data, cleaned data, analysis, and the final dashboard  
+- Due to file size constraints, two Excel files are uploaded. One contains dashboard and essential pivot charts. Other contains screenshots of cleaned data and intermediate pivot table required for analysis
 - `dashboard_screenshots/` — Images of the final dashboard used for documentation and sharing  
 - `README.md` — Project documentation  
 

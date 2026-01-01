@@ -52,8 +52,8 @@ The dashboard is designed to prioritize clarity and decision-oriented insights r
 
 ## Files in This Repository
 
-- Due to file size constraints, two Excel files are uploaded. One contains dashboard and essential pivot charts. Other contains screenshots of cleaned data and intermediate pivot table required for analysis
-- `dashboard_screenshots/` — Images of the final dashboard used for documentation and sharing  
+- Due to file size constraints, two Excel files are uploaded. One contains dashboard and summary analysis only.
+- `Analysis Screenshots` — Images of the cleaned data and intermediate pivot tables required for analysis 
 - `README.md` — Project documentation  
 
 

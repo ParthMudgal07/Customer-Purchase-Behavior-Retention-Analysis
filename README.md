@@ -1,4 +1,5 @@
 # Customer Purchase Behavior & Retention Analysis
+![Project Screenshot](Dashboard.png)
 
 ## Project Overview
 
@@ -53,11 +54,11 @@ The dashboard is designed to prioritize clarity and decision-oriented insights r
 ## Files in This Repository
 
 - Due to file size constraints, two Excel files are uploaded. One contains dashboard and summary analysis only.
-- `Analysis Screenshots` — Images of the cleaned data and intermediate pivot tables required for analysis
+- `Dashboard` — A screenshot of Excel Dashboard
 - `Raw_Data` — Raw dataset used for analysis
 - `README.md` — Project documentation  
-
-
+- `Dashboard.xlsx` — Dashboard File 
+- `Analysis_Screenshots` — Screenshots of analysis
 ## Tools Used
 
 - Microsoft Excel (data cleaning, pivot-based analysis, dashboard design)
